@@ -1,4 +1,4 @@
-# hexapod
+# Sinnlos Box
 
 Hier wiedermal ein neues Projekt, Durch ein paar bildern im internet wurde ich angeregt wiedermal etwas zu bauen an dem ander Freude habe. Eine Box mit nur einem schalter der nach dem einschalten sich selber wieder auf OFF stellt, und um alles in der welt nicht eingeschaltet werden möchte. der User kann es immer wieder probieren aber die box wird sich auch immer wieder ausschalten. Damit das auf die dauer nicht zu langweilig wird. Tut sie das auch immer wieder auf eine andere art und weise.
 
@@ -33,8 +33,8 @@ http://youtu.be/jspSlxgJtCM
 
 
 zum Aufbau werde ich nicht all zu viel Sagen, ich denke etwas Basteln und Überlegen ist nicht schlecht...
+[![Hier seht Ihr den Anschluss Plan](https://github.com/ossilampe/Sinnlos-Box/blob/master/F6Z2PL7I3TIDH58.MEDIUM.jpg(Pathed\)_medium.jpg
 
-Hier seht Ihr den Anschluss Plan
 
 
 

@@ -35,7 +35,7 @@ http://youtu.be/jspSlxgJtCM
 zum Aufbau werde ich nicht all zu viel Sagen, ich denke etwas Basteln und Überlegen ist nicht schlecht...
 
  
-![Hier seht Ihr den Anschluss Plan](https://github.com/ossilampe/Sinnlos-Box/blob/master/F6Z2PL7I3TIDH58.MEDIUM.jpg
+![Hier seht Ihr den Anschluss Plan](https://github.com/ossilampe/Sinnlos-Box/blob/master/F6Z2PL7I3TIDH58.MEDIUM.jpg)
 
 
 

@@ -1,4 +1,4 @@
-# Sinnlos Box
+# Sinnlos Box  ganzes Projekt http://ossilampe.de/?p=1358
 
 Hier wiedermal ein neues Projekt, Durch ein paar bildern im internet wurde ich angeregt wiedermal etwas zu bauen an dem ander Freude habe. Eine Box mit nur einem schalter der nach dem einschalten sich selber wieder auf OFF stellt, und um alles in der welt nicht eingeschaltet werden möchte. der User kann es immer wieder probieren aber die box wird sich auch immer wieder ausschalten. Damit das auf die dauer nicht zu langweilig wird. Tut sie das auch immer wieder auf eine andere art und weise.
 
